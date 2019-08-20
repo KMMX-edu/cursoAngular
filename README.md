@@ -1,5 +1,7 @@
 # cursoAngular
-Curso de Angular en KMMX
-por Alejanro Mercado Peña
-Twitter @alexmarket
+*Curso de Angular 2+ en KMMX
+*por Alejanro Mercado Peña
+*Twitter @alexmarket
+*Introduccion
+*Objetivos
 
